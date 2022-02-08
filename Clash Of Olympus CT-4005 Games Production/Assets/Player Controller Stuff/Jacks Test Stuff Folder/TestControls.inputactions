@@ -1,0 +1,109 @@
+{
+    "name": "TestControls",
+    "maps": [
+        {
+            "name": "Gameplay",
+            "id": "3dff3277-7965-4188-9a7a-3bc5c1f77ff9",
+            "actions": [
+                {
+                    "name": "RightTrigger",
+                    "type": "Button",
+                    "id": "8e750728-0c2b-42c4-b857-38cf4cceb79d",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "RightTriggerRelease",
+                    "type": "Button",
+                    "id": "44383b32-c345-4251-804e-2effae0d173f",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "LeftTrigger",
+                    "type": "Button",
+                    "id": "a8643852-905b-4fee-957c-4f16e3d91bbe",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "LeftJoystick",
+                    "type": "Value",
+                    "id": "69494a08-b71b-41cb-a688-588a09843679",
+                    "expectedControlType": "Stick",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "ButtonWest",
+                    "type": "Button",
+                    "id": "7cc866f5-d47f-4b00-bd38-cc64dc35bc4e",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "c82175a4-0d91-40be-a898-de9f0f401706",
+                    "path": "<Gamepad>/leftTrigger",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "LeftTrigger",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "31faae3e-c8cb-4aa4-9585-e2e6266dc0e1",
+                    "path": "<Gamepad>/leftStick",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "LeftJoystick",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "616e8e01-c4df-4bf3-a3d1-98e10b5f9fdc",
+                    "path": "<Gamepad>/buttonWest",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ButtonWest",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "0b7456fc-bc78-44e7-b095-b89c82b2dfb5",
+                    "path": "<Gamepad>/rightTrigger",
+                    "interactions": "Press",
+                    "processors": "",
+                    "groups": "",
+                    "action": "RightTrigger",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "0b4bb9b1-d460-415b-93df-1afd8483d9b1",
+                    "path": "<Gamepad>/rightTrigger",
+                    "interactions": "Press(behavior=1)",
+                    "processors": "",
+                    "groups": "",
+                    "action": "RightTriggerRelease",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
