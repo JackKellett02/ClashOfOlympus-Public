@@ -11,15 +11,15 @@ Just be aware that 4 players are required to play this game!!!
 
 The controls are in the screenshots.
 
-Otherwise have fun!!!
+Otherwise, have fun!!!
 
 
 
-Made as a group project from students at the University of Gloucestershire.
+Made as a group project by students at the University of Gloucestershire.
 
 Team 2600:
 
-Jack Kellett https://www.jackkellett.com/
+Jack Kellett https://miakellett02.github.io/
 Ed Thompson
 Mohammed Sumani
 Ludo West https://www.artstation.com/ludowest
