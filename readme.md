@@ -19,8 +19,12 @@ Made as a group project by students at the University of Gloucestershire.
 
 Team 2600:
 
-Jack Kellett https://miakellett02.github.io/
+Mia Kellett: https://miakellett02.github.io/
+
 Ed Thompson
+
 Mohammed Sumani
+
 Ludo West https://www.artstation.com/ludowest
+
 Leo Dela Rosa
