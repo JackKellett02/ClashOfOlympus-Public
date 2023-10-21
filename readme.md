@@ -18,13 +18,8 @@ Otherwise, have fun!!!
 Made as a group project by students at the University of Gloucestershire.
 
 Team 2600:
-
-Mia Kellett: https://miakellett02.github.io/
-
-Ed Thompson
-
-Mohammed Sumani
-
-Ludo West https://www.artstation.com/ludowest
-
-Leo Dela Rosa
+ - Mia Kellett: https://miakellett02.github.io/
+ - Ed Thompson
+ - Mohammed Sumani
+ - Ludo West https://www.artstation.com/ludowest
+ - Leo Dela Rosa
